@@ -1,5 +1,5 @@
 # Rapid Bootstrap
-Rapid Bootstrap is my toolkit for kickstarting web-projects, apps, and more. It includes a basic set of css classes optimized for perfect typography, a fluid grid system and all necessary JavaScript elements to develop mobile friendly websites.
+«Rapid Bootstrap» is my toolkit for kickstarting web-projects, apps, and more. It includes a basic set of CSS elements optimized for perfect typography, a fluid grid system and all necessary JavaScripts to develop mobile friendly websites.
 
 ## Disclaimers
 
