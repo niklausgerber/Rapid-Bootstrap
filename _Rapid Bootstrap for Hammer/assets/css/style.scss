@@ -443,20 +443,22 @@ Change widths as necessary
 
 /* Flexible iFrame */
 
-figure {
-	height: 0;
-	padding-bottom: 56.25%; /* 16: 9 */
-	position: relative;
-	width: 100%;
-	margin: 0;
+.Flexible-container {
+    position: relative;
+    padding-bottom: 56.25%;
+    padding-top: 30px;
+    height: 0;
+    overflow: hidden;
 }
 
-iframe {
-	height: 100%;
-	left: 0;
-	position: absolute;
-	top: 0;
-	width: 100%;
+.Flexible-container iframe,   
+.Flexible-container object,  
+.Flexible-container embed {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
 }
 
 /* non-semantic helper classes */
