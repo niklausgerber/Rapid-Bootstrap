@@ -1,0 +1,18 @@
+/* Lists */
+
+ul,ol {
+	list-style-position: inside;
+	padding: 0;
+}
+
+li ul,li ol {
+	margin: 0 1.5em;
+}
+
+dl dd {
+	margin-left: 1.5em;
+}
+
+dt {
+	font-family: Futura, "Century Gothic", AppleGothic, sans-serif;
+}

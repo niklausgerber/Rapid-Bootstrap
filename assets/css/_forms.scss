@@ -1,0 +1,56 @@
+/* Forms */
+
+form {
+	margin: 0;
+}
+
+fieldset {
+	border: 0;
+	padding: 0;
+}
+
+textarea {
+	overflow: auto;
+	vertical-align: top;
+	width: 100%;
+}
+
+legend {
+	margin-left: -.75em;
+}
+
+button,input,select,textarea {
+	vertical-align: baseline;
+	vertical-align: middle;
+}
+
+/* IE7 and older */
+button,input {
+	line-height: normal;
+	overflow: visible;
+}
+
+button,input[type="button"],input[type="reset"],input[type="submit"] {
+	cursor: pointer;
+	-webkit-appearance: button;
+}
+
+input[type="checkbox"],input[type="radio"] {
+	box-sizing: border-box;
+}
+
+input[type="search"] {
+	-webkit-appearance: textfield;
+	-moz-box-sizing: content-box;
+	-webkit-box-sizing: content-box;
+	box-sizing: content-box;
+}
+
+input[type="search"]::-webkit-search-decoration {
+	-webkit-appearance: none;
+}
+
+button::-moz-focus-inner,input::-moz-focus-inner {
+	border: 0;
+	padding: 0;
+}

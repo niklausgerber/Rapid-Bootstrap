@@ -1,0 +1,44 @@
+/* Quotes */
+
+blockquote, q {
+	quotes: none;
+	padding-right: 7%;
+	padding-left: 7%;
+}
+
+blockquote p:before {
+	content: '«';
+}
+
+blockquote p:after {
+	content: '»';
+}
+
+blockquote, q, cite {
+	font-style: italic;
+}
+
+
+blockquote > p {
+	padding: 0;
+}
+
+dfn { 
+	font-style: italic; 
+}
+
+/* Position subscript and superscript content without affecting line-height: h5bp.com/k */
+sub, sup { 
+	font-size: 75%; 
+	line-height: 0; 
+	position: relative; 
+	vertical-align: baseline; 
+}
+
+sup { 
+	top: -0.5em; 
+}
+
+sub { 
+	bottom: -0.25em; 
+}

@@ -1,0 +1,21 @@
+/* Code */
+
+pre {
+	white-space: pre;
+	white-space: pre-wrap;
+	word-wrap: break-word;
+	border-style: none;
+	border-color: #efefef;
+	border-width: 0px;
+	border-radius: 5px;
+	padding: 1em;
+}
+
+/* Allow line wrapping of 'pre' */
+pre,code,kbd,samp {
+	font-size: 1em;
+	line-height: 1.5em;
+	margin-bottom: 1.5em;
+	background-color: #efefef;	
+	font-family: Menlo, Consolas, 'DejaVu Sans Mono', Monaco, monospace;
+}

@@ -1,8 +1,5 @@
 # Rapid Bootstrap
-«Rapid Bootstrap» is my toolkit for kickstarting web-projects, apps, and more. It includes a basic set of CSS elements optimized for perfect typography, a fluid grid system and all necessary JavaScripts to develop mobile friendly websites.
-
-# Rapid Bootstrap for Hammer
-In the folder «_Rapid Bootstrap for Hammer» you will find all necessary files to build up your page with [Hammer](http://hammerformac.com). This nifty little tool by Riot can help you to build a static HTML site even faster.
+«Rapid Bootstrap» is my toolkit for kickstarting web-projects, apps, and more. It includes a basic set of CSS elements optimized for perfect typography, a super simple fluid grid system and all necessary JavaScripts to develop mobile friendly websites. «Rapid Bootstrap» is especially built for [Hammer](http://hammerformac.com). This nifty little tool by Riot can help you to build a static HTML site even faster. If you don't own a copy of hammer you will find everything processed in the «Build» folder.
 
 ## Disclaimer
 

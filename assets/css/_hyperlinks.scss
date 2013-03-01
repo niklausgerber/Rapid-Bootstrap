@@ -1,0 +1,30 @@
+/* Hyperlinks */
+
+a { 
+	color: #C22A09;
+	text-decoration: none;	
+	border: none;
+}
+
+a:visited { 
+	color: #C22A09; 
+}
+
+a:hover { 
+	color: #CCC;
+	-moz-transition: all 0.2s ease-in;
+	-o-transition: all 0.2s ease-in;
+	-webkit-transition: all 0.2s ease-in;
+	-ms-transition: all 0.2s ease-in;
+	transition: all 0.2s ease-in; 
+}
+
+a:focus { 
+	outline: thin dotted; 
+}
+
+p a { /* Optimized for touch devices */
+	margin: -.5em;
+	padding: .5em;
+	position: relative;
+}

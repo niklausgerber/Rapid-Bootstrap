@@ -1,0 +1,39 @@
+/* Typography */
+
+body {
+	font-family: Georgia, "Times New Roman", Times, serif;
+	font-size: 1.375em;
+	line-height: 1.5em;	
+}
+
+h1 {
+	font-size: 3.13636em;
+	line-height: 1.43478em;
+	margin-top: 0.4783em;
+	margin-bottom: 0.9565em;
+}
+
+h2 {
+	font-size: 1.77273em;
+	line-height: 1.69231em;
+	margin-top: 1.6923em;
+	margin-bottom: 0.8462em;
+}
+
+h3 {
+	font-size: 1.31818em;
+	line-height: 1.13793em;
+	margin-top: 1.1379em;
+	margin-bottom: 0em;
+}
+
+p, ul, blockquote, pre, td, th, label {
+	margin: 0; 
+	font-size: 1em; 
+	line-height: 1.5em; 
+	margin-bottom: 1.5em;
+}
+
+small, aside {
+	font-size: 0.77273em;
+}

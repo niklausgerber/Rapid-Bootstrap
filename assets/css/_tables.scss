@@ -1,0 +1,16 @@
+/* Tables */
+
+table {
+	border-collapse: collapse;
+	border-spacing: 0;
+	margin-bottom: 1.5em;
+}
+
+th {
+	text-align: left;
+}
+
+tr,th,td {
+	padding-right: 1.5em;
+	border-bottom: 0 solid #333;
+}
