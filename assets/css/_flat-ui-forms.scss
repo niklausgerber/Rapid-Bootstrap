@@ -86,6 +86,7 @@ input, textarea {
 	margin: 1em 0;
 	color: $text-focus;	
 	border: 2px solid $text-field-border;
+	-webkit-appearance: none;
 	-moz-border-radius: 6px;
 	-webkit-border-radius: 6px;
 	-khtml-border-radius: 6px;	
