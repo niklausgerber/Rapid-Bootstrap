@@ -5,8 +5,8 @@
 /* @include _respond.min */
 
 /* retina.js (provide image alternative | my_image@2x.png) */
-/* @include _retina.js */
+/* @include _retina */
 
-/* @include _flat-ui.js */
+/* @include _flat-ui */
 
-/* @include _scripts.js */
+/* @include _scripts */

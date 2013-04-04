@@ -8,4 +8,3 @@ function isPlaceholderSupported() {
 }
  
 var supported = isPlaceholderSupported();
-

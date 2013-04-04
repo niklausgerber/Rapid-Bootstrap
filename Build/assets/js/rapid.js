@@ -28,6 +28,4 @@ function isPlaceholderSupported() {
  
 var supported = isPlaceholderSupported();
 
-
-
 // Your own scripts
