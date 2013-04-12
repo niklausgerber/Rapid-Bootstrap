@@ -73,7 +73,10 @@ $widescreen: 1440px;
 	}	 	
 	
 	/* Column Grid */
-	.grid {display: inline; float: left}
+	.grid {
+		display: inline; 
+		float: left
+	}
 	
 	/* 2 Column Grid */
 	.half {
@@ -113,7 +116,7 @@ $widescreen: 1440px;
 	
 	/* 1 Column Grid */
 	.full {
-		width: $grid;
+		width: $grid - 2*$grid-margin;
 		margin-left: $grid-margin;
 		margin-right: $grid-margin;
 	}
@@ -134,7 +137,7 @@ $widescreen: 1440px;
 	
 	/* 3 Column Grid Two Third */
 	.two-third {
-		width: $grid/3*2 - 4*$grid-margin;
+		width: $grid/3*2 - 2*$grid-margin;
 		margin-left: $grid-margin;
 		margin-right: $grid-margin;
 	}
