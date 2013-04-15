@@ -625,8 +625,8 @@ input:focus, textarea:focus {
   transition: all 0.25s ease-in; }
 
 .Button:active {
-  background-color: #ecf0f1;
-  border-color: #ecf0f1; }
+  background-color: #1abc9c;
+  border-color: #1abc9c; }
 
 /* Checkbox */
 .regular-checkbox {
