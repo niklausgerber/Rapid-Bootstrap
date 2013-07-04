@@ -335,6 +335,18 @@ textarea {
   .fourth {
     width: 48%;
     margin-left: 1%;
+    margin-right: 1%; }
+
+  /* 6 Column Grid Two Third */
+  .sixth {
+    width: 31.33333%;
+    margin-left: 1%;
+    margin-right: 1%; }
+
+  /* 8 Column Grid */
+  .eighth {
+    width: 23%;
+    margin-left: 1%;
     margin-right: 1%; } }
 /* Landscape Tablet/Notebook/Laptop */
 @media only screen and (min-width: 1024px) {
@@ -374,6 +386,24 @@ textarea {
   /* 5 Column Grid */
   .fifth {
     width: 18%;
+    margin-left: 1%;
+    margin-right: 1%; }
+
+  /* 6 Column Grid */
+  .sixth {
+    width: 14.66667%;
+    margin-left: 1%;
+    margin-right: 1%; }
+
+  /* 7 Column Grid */
+  .seventh {
+    width: 12.28571%;
+    margin-left: 1%;
+    margin-right: 1%; }
+
+  /* 8 Column Grid */
+  .eighth {
+    width: 10.5%;
     margin-left: 1%;
     margin-right: 1%; } }
 /* Desktop */

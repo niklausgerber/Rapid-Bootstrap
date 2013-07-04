@@ -81,31 +81,45 @@ $widescreen: 1440px;
 	/* 2 Column Grid */
 	.half {
 		width: $grid/2 - 2*$grid-margin;
-		margin-left: 1%;
-		margin-right: 1%;
+		margin-left: $grid-margin;
+		margin-right: $grid-margin;
 	}
 	
 	/* 3 Column Grid One Third */
 	.one-third {
 		width: $grid/2 - 2*$grid-margin;
-		margin-left: 1%;
-		margin-right: 1%;
+		margin-left: $grid-margin;
+		margin-right: $grid-margin;
 	}
 	
 	/* 3 Column Grid Two Third */
 	.two-third {
 		width: $grid/2 - 2*$grid-margin;
-		margin-left: 1%;
-		margin-right: 1%;
+		margin-left: $grid-margin;
+		margin-right: $grid-margin;
 	}
 	
 	/* 4 Column Grid */
 	.fourth {
 		width: $grid/2 - 2*$grid-margin;;
-		margin-left: 1%;
-		margin-right: 1%;
+		margin-left: $grid-margin;
+		margin-right: $grid-margin;
 	}
-
+	
+	/* 6 Column Grid Two Third */
+	.sixth {
+		width: $grid/3 - 2*$grid-margin;
+		margin-left: $grid-margin;
+		margin-right: $grid-margin;
+	}
+	
+	/* 8 Column Grid */
+	.eighth {
+		width: $grid/4 - 2*$grid-margin;
+		margin-left: $grid-margin;
+		margin-right: $grid-margin;
+	}
+	
 }
 
 /* Landscape Tablet/Notebook/Laptop */
@@ -152,6 +166,27 @@ $widescreen: 1440px;
 	/* 5 Column Grid */
 	.fifth {
 		width: $grid/5 - 2*$grid-margin;
+		margin-left: $grid-margin;
+		margin-right: $grid-margin;
+	}
+	
+	/* 6 Column Grid */
+	.sixth {
+		width: $grid/6 - 2*$grid-margin;
+		margin-left: $grid-margin;
+		margin-right: $grid-margin;
+	}
+	
+	/* 7 Column Grid */
+	.seventh {
+		width: $grid/7 - 2*$grid-margin;
+		margin-left: $grid-margin;
+		margin-right: $grid-margin;
+	}
+	
+	/* 8 Column Grid */
+	.eighth {
+		width: $grid/8 - 2*$grid-margin;
 		margin-left: $grid-margin;
 		margin-right: $grid-margin;
 	}
